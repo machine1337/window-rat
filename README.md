@@ -7,8 +7,8 @@
     
 # Installation:
     1. cd /opt
-    2. git clone https://github.com/machine1337/window-rat
-    3. chmod +x exploit.sh
+    2. sudo git clone https://github.com/machine1337/window-rat
+    3. sudo chmod +x exploit.sh
     
 # Usage:
     1. sudo ./exploit.sh
