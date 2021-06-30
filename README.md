@@ -2,6 +2,10 @@
 
 ![rat](https://user-images.githubusercontent.com/82051128/123739056-72203a80-d8bf-11eb-9c7a-2b7301e2d767.png)
 
+# VirusTotal Result:
+![virpoc](https://user-images.githubusercontent.com/82051128/123906509-bf6add80-d98d-11eb-81aa-d97ceda5bc86.PNG)
+  
+
 # Introduction:
     A Fully Undectable Window RAT that bypass window 10 Defender protection and also bypass 99.9% of other antivirus protections.
     
