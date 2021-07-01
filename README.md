@@ -1,6 +1,7 @@
 # window-rat:
 
-![rat](https://user-images.githubusercontent.com/82051128/124006430-af85e480-d9f3-11eb-8f80-1761e45934e7.png)
+![lan](https://user-images.githubusercontent.com/82051128/124075379-2f489900-da5e-11eb-8495-b52eb07179d2.png)
+
 
 # VirusTotal Result:
 ![virpoc](https://user-images.githubusercontent.com/82051128/123906509-bf6add80-d98d-11eb-81aa-d97ceda5bc86.PNG)
