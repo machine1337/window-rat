@@ -8,7 +8,8 @@
   
 # Note:
     Don't upload exe format to virustotal as I have already uploaded
-    Ps payload to virustotal.
+    Ps payload to virustotal. or u can check this file on nodistribute.com because they
+    don't submit signatures to antivirus companies.
     Reason: They will submit this payload to different AV companies
     And as a result this script will not work w.r.t time.
 
