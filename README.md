@@ -1,11 +1,25 @@
 # window-rat:
 
+# Warning:
+    1. Don't Upload Any Payloads To VirusTotal.com Bcz This tool will not work
+       with Time.
+    2. Virustotal Share Signatures With AV Comapnies.
+    3. Again Don't be an Idiot!
+    
 ![lan](https://user-images.githubusercontent.com/82051128/124075379-2f489900-da5e-11eb-8495-b52eb07179d2.png)
 
 
 # VirusTotal Result:
 ![virpoc](https://user-images.githubusercontent.com/82051128/123906509-bf6add80-d98d-11eb-81aa-d97ceda5bc86.PNG)
-  
+
+# Features:
+    1. Very Simple And Fully Undectable RAT For Windows
+    2. Impossible To Decrypt Powershell Payload
+    3. Persistent Reverse Shell
+    4. Once Victim Execute the Payload And We got Shell Then Victim Can't Remove the payload
+       Until the Shell is Open In Attacker System.
+    5. U can Convert Powershell payload to exe using ps2exe tool in windows.
+    
 # Note:
     Don't upload exe format to virustotal as I have already uploaded
     Ps payload to virustotal. or u can check this file on nodistribute.com because they
