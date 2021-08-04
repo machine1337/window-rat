@@ -6,7 +6,8 @@
     2. Virustotal Share Signatures With AV Comapnies.
     3. Again Don't be an Idiot!
     
-![lan](https://user-images.githubusercontent.com/82051128/124075379-2f489900-da5e-11eb-8495-b52eb07179d2.png)
+![win](https://user-images.githubusercontent.com/82051128/128230413-c5addd4f-526b-4055-b40d-08c3680d6d80.png)
+
 
 
 # VirusTotal Result:
@@ -57,6 +58,8 @@
     
 # Credit:
     Follow me on:
-     1) Github
-     2) Telegram: https://t.me/clay404
-     3) Twitter:  https://twitter.com/whoami4041
+https://instagram.com/invisibleclay100
+https://twitter.com/whoami4041
+https://www.youtube.com/channel/UCC_aPnmV_zGfdwktCFE9cPQ
+Telegram: https://t.me/clay404
+     
