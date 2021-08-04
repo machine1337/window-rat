@@ -53,13 +53,11 @@
 # Warning:
     Use this tool Only for Educational Purpose And I will Not be Responsible For ur cruel act.
     
-# Video:
-  https://www.youtube.com/watch?v=BRHejUkWY08
     
 # Credit:
     Follow me on:
-https://instagram.com/invisibleclay100
-https://twitter.com/whoami4041
-https://www.youtube.com/channel/UCC_aPnmV_zGfdwktCFE9cPQ
-Telegram: https://t.me/clay404
+1. https://instagram.com/invisibleclay100
+2. https://twitter.com/whoami4041
+3. https://www.youtube.com/channel/UCC_aPnmV_zGfdwktCFE9cPQ
+4. Telegram: https://t.me/clay404
      
