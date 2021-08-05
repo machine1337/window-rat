@@ -49,7 +49,9 @@
 # Usage Type:
     1. For WAN ( Use ngrok for that or any Port Forwarding method);
     2. For LAN ( Use ur Local IP);
-    
+# Demo Video:
+https://www.youtube.com/watch?v=woXidQoTft4
+
 # Warning:
     Use this tool Only for Educational Purpose And I will Not be Responsible For ur cruel act.
     
