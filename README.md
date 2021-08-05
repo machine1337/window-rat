@@ -36,7 +36,7 @@
     2. sudo chmod +x exploit.sh
     
 # Usage:
-    1. sudo ./exploit.sh
+    1. sudo bash exploit.sh or sudo zsh exploit.sh
     2. Now enter LHOST (your IP or server in which u want to get reverse shell)
     3. Now enter LPORT (which port u want to connect)
     4. Your payload will be saved in /window-rat/{bypass.ps1} .
