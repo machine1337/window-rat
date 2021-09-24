@@ -13,6 +13,11 @@
 # VirusTotal Result:
 ![virpoc](https://user-images.githubusercontent.com/82051128/123906509-bf6add80-d98d-11eb-81aa-d97ceda5bc86.PNG)
 
+# Want Access
+     1. For Zip Password, Contact Us On:
+         Telegram id: @R0ot1337
+         Instagram: invisibleclay100
+
 # Features:
     1. Very Simple And Fully Undectable RAT For Windows
     2. Impossible To Decrypt Powershell Payload
