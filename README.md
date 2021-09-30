@@ -55,6 +55,10 @@
 # Usage Type:
     1. For WAN ( Use ngrok for that or any Port Forwarding method);
     2. For LAN ( Use ur Local IP);
+    
+# Donations:
+   BTC Address:  3Dvzx2RKMR731VSEPXXgPyBq6Ln4JJdYPD
+   
 # Demo Video:
 https://www.youtube.com/watch?v=woXidQoTft4
 
