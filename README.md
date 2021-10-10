@@ -1,10 +1,4 @@
 # window-rat:
-
-# Want Access
-     1. For Zip Password, Contact Us On:
-         Telegram id: @R0ot1337
-         Instagram: invisibleclay100
-
     
 ![win](https://user-images.githubusercontent.com/82051128/128230413-c5addd4f-526b-4055-b40d-08c3680d6d80.png)
 
