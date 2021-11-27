@@ -1,4 +1,7 @@
 # window-rat:
+
+# Note:
+     Don't Upload Any Payloads To Virustotal Or Any AV Scanners!!!!
     
 ![win](https://user-images.githubusercontent.com/82051128/128230413-c5addd4f-526b-4055-b40d-08c3680d6d80.png)
 
