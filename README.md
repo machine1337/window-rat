@@ -55,6 +55,8 @@
     don't submit signatures to antivirus companies.
     Reason: They will submit this payload to different AV companies
     And as a result this script will not work w.r.t time.
+# Contact:
+    Telegram Group: https://t.me/machine1337
     
 # Donations:
    BTC Address:  3Dvzx2RKMR731VSEPXXgPyBq6Ln4JJdYPD
